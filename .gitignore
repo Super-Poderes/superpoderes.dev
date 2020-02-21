@@ -5,6 +5,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# SASS generated stylesheets
+public/stylesheets/*.css
+public/stylesheets/*.css.map
+
 # Runtime data
 pids
 *.pid
